@@ -1,3 +1,4 @@
+//listing of outputs based on varaitions of in-built string matching methods
 public class StringCompare
 {
   public static void main(String[] args)
